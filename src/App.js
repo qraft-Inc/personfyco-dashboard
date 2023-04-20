@@ -23,7 +23,7 @@ import Chat from './Core/Chat'
 
 import Login from './Login/Login'
 
-import Profile from './Profile/'
+import Profile from './Profile'
 import LoginSuccess from './Login/Success'
 
 
