@@ -27,7 +27,7 @@ import Profile from './Profile'
 import LoginSuccess from './Login/Success'
 
 
-import './App.scss'
+import './App.css'
 
 if(!window.store){
   window.store = new AppStore();
