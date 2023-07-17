@@ -27,7 +27,7 @@
     "mobx": "^6.3.2",
     "mobx-react": "^7.2.0",
     "mobx-react-lite": "^3.2.1",
-    "mongoose": "^5.13.5",
+    "mongoose": "^5.13.20",
     "morgan": "^1.10.0",
     "openai-api": "^1.2.3",
     "react": "^17.0.2",
