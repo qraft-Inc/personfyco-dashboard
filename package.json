@@ -28,7 +28,7 @@
     "mobx-react": "^7.2.0",
     "mobx-react-lite": "^3.2.1",
     "mongoose": "^5.13.5",
-    "morgan": "^1.10.0",
+    "morgan": "^1.10.1",
     "openai-api": "^1.2.3",
     "react": "^17.0.2",
     "react-countdown": "^2.3.2",
